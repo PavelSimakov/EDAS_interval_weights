@@ -7,4 +7,4 @@ The program is designed for decision makers in industrial and commercial enterpr
 
 Certificate of registration of a computer program
 
-![Свиделельство - СИСТЕМА ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ С ПОМОЩЬЮ МОДИФИЦИРОВАННОГО МЕТОДА EDAS С ИНТЕРВАЛЬНЫМИ ВЕСАМИ.pdf](https://github.com/user-attachments/files/18491872/-.EDAS.pdf)
+![Свиделельство - СИСТЕМА ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ С ПОМОЩЬЮ МОДИФИЦИРОВАННОГО МЕТОДА EDAS С ИНТЕРВАЛЬНЫМИ ВЕСАМИ](https://github.com/user-attachments/assets/f0f6f899-c899-4f3f-ba7b-224e8e0836ff)
